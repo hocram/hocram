@@ -1,7 +1,8 @@
-👋 Hi, I'm Marco Di Pasquale  
+👋 **Hi, I'm Marco Di Pasquale**  
 _aka [hocram](https://github.com/hocram)_
 
-🧭 Multidisciplinary digital designer, Software engineer, Creative mind  
+🧭 **Multidisciplinary digital designer, Software engineer, Creative mind**    
+
 I design essential, lightweight, modular, and poetic tools for complex environments.  
 Designing is like shaping a space: with intention, care, and silence.  
 Code becomes a design language — a gesture of listening, not an end in itself.
@@ -29,9 +30,14 @@ Code becomes a design language — a gesture of listening, not an end in itself.
 🗺️ `RicordaMe` – Shared visual notes and thought maps  
 > *"A notebook for those who think in images."*
 
-🤖 `Robobot` – Local, modular, and curious robotic desktop assistant  
-🦋 `Nuricò` – Natural interface between body, space, and vision  
-🔖 `QTag Code` – Poetic QR codes for objects, contacts, and memories
+🤖 `Aivoo - Robobot` – Local, modular, and curious robotic desktop assistant.  
+> *"Small in size. Big in interaction. Not a tool, but a dialogue in motion."*
+
+🦋 `Nuricò - NuiVisio` – Design framework for embodied and natural interaction.  
+> *"Natural user interface between body, space, and vision."*
+
+🔖 `QTag Code - FindMe` – The code that brings things back to you.  
+> *"Digital touchpoints for memory, identity, and discovery."*
 
 ---
 📢 **Contacts**  
